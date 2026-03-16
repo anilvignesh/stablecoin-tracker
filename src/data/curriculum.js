@@ -8,13 +8,13 @@ export const curriculum = [
         id: 'week_1_resource_1',
         title: 'USDC Whitepaper',
         source: 'Circle',
-        url: 'https://www.centre.io/pdfs/centre-whitepaper.pdf',
+        url: 'https://www.circle.com/legal/mica-usdc-whitepaper',
       },
       {
         id: 'week_1_resource_2',
         title: 'Tether Reserve Attestations',
         source: 'Tether',
-        url: 'https://tether.io/news/tether-attestation-reports-q1-q3-2025-profit-surpassing-10b-record-levels-in-us-treasuries-exposure-accelerating-usdt-supply-amidst-worlds-macroeconomic-uncertainty/',
+        url: 'https://assets.ctfassets.net/vyse88cgwfbl/2SGAAXnsb1wKByIzkhcbSx/9efa4682b3cd4c62d87a4c88ee729693/ISAE_3000R_-_Opinion_Tether_International_Financial_Figure_RC187322025BD0201.pdf',
       },
       {
         id: 'week_1_resource_3',
