@@ -39,13 +39,13 @@ export const curriculum = [
         id: 'week_2_resource_1',
         title: 'Ondo Finance Documentation',
         source: 'Ondo Finance',
-        url: 'https://docs.ondo.finance',
+        url: 'https://docs.ondo.finance/general-access-products/usdy/basics',
       },
       {
         id: 'week_2_resource_2',
         title: 'Ethena USDe Research',
         source: 'Ethena',
-        url: 'https://ethena.fi',
+        url: 'https://docs.ethena.fi/solution-overview/usde-overview',
       },
       {
         id: 'week_2_resource_3',
